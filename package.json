@@ -1,0 +1,11 @@
+{
+  "name": "kick-it-3.0",
+  "version": "3.0.0",
+  "description": "A re-development of the unfinished kick-it-2.0 using Redux as a global store of state",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack Fischer",
+  "license": "UNLICENSED"
+}
